@@ -11,4 +11,4 @@ The Current Population Survey (CPS) is a monthly survey of households conducted 
 * Mphasis HyperGraf is an Omni-channel customer 360 analytics solution.Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch! 
 
 ## Amazon Marketplace Link
-The product can be found [here](Marketplace Link to the listing. Update this once it is published. Example: https://aws.amazon.com/marketplace/pp/prodview-uzkcdmjuagetk)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-2ys62bfulqtr6)
